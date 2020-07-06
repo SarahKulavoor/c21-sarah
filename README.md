@@ -1,1 +1,2 @@
-# c21-sarah
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
